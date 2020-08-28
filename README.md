@@ -1,6 +1,6 @@
 # Movilicious
 
-  * Find Out daily/weekly Movies and TV Shows Treadings.
+  * Find Out daily/weekly Treading Movies and TV Shows.
   * Search Feature.
   * More other features will be added soon.
   
