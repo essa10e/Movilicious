@@ -1,7 +1,7 @@
 # Movilicious
 
   * Find Out daily/weekly Treading Movies and TV Shows.
-  * Search Feature.
+  * Search your favorite movie or TV show for more details.
   * More other features will be added soon.
   
   # howThisAppCreated()
